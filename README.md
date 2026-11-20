@@ -1,6 +1,7 @@
 # 快捷中心（fnshortcut）for 飞牛 fnOS
 
 在飞牛桌面里管理自己的「网址 / IP 快捷方式」：手动输入 IP 或网址 → 自动抓图标或生成字母图标 → 点击就在飞牛桌面窗口内打开（内置 iframe 窗口，也支持新标签页、浏览器直接跳转）。
+<img width="1841" height="1142" alt="image" src="https://github.com/user-attachments/assets/ff1fb0f2-28ab-4d46-9f8e-60148f412433" />
 
 - 应用名：`fnshortcut`
 - 桌面入口：快捷中心（`fnshortcut.main`，type=`iframe`，在 fnOS 桌面窗口内打开）
